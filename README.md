@@ -13,7 +13,7 @@ API REST para obter dados de partidas, resultados, ranking de times e transferê
 
 1. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/fhecout/API-HLTV.git
    cd <nome-da-pasta>
    ```
 
